@@ -37,6 +37,7 @@ dependencies:
   country_picker:
   currency_picker:
   http:
+  firebase_core:
 
 dev_dependencies:
   flutter_test:
